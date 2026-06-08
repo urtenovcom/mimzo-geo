@@ -1,6 +1,6 @@
-module github.com/urtenovcom/mimzo-geo/filter
+module github.com/urtenovcom/mimzo-geo
 
-go 1.21
+go 1.22
 
 require (
 	github.com/v2fly/v2ray-core/v5 v5.16.1
