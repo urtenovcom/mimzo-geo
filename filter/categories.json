@@ -3,7 +3,9 @@
   "geosite_categories": [
     "category-ru",
     "private",
-    "geolocation-ru"
+    "geolocation-ru",
+    "category-ads-all",
+    "category-ads"
   ],
   "geoip_countries": [
     "ru",
